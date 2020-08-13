@@ -1,0 +1,16 @@
+API documentation - https://developer.riotgames.com/apis
+
+What can be retrieved ? 
+  - Game Status
+  - Champions Rotations (both old and new players)
+  - Active or Upcoming Tournaments
+  - High Tier classament 
+  - Champions Mastery (based on player ID)
+  - Master Players
+  - Games / Tournaments history
+  - Active Game of a Summoner
+  - Account Details (based on encrypted keys received upon search by Summoner Name / Region)
+  - TFT High Tiers (Master / Grandmaster / Challenger)
+
+Future: 
+  - Valorant
